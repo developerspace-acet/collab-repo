@@ -1,0 +1,1 @@
+console.log("Varanasi 10,000 cr")
